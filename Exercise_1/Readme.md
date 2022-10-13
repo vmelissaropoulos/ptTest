@@ -1,4 +1,4 @@
-# Exercise 1  
+# Description
 Create a script in powershell that will search recursivelly into folders, starting from a given path, for any folder named Action# (where # = number. ex: Action0) whose missing the file 'Script.mts'.
 
 ## More explanation
