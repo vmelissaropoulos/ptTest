@@ -4,9 +4,8 @@ Create a script in powershell that will search recursivelly into folders, starti
 ## More explanation
 In the given folder-file structure there should be a file named *Script.mts* in every `'Action#'` folder. 
 
+## Instructions
+Run the `generate_random_folders.ps1` script to generate a random folder-file sample structure to work with.
+
 ## Deliverable
-A txt file containing the fullpath of each action folder, in seperate lines, that doesn't contain the *Script.mts* file. 
-
-## Given
-You may find the folder-file structure given in the same path as the Readme file you're currently reading.
-
+The solution script.
