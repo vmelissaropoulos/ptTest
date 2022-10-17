@@ -89,6 +89,7 @@
         <ProductName>Wireless Mouse</ProductName>
         <Quantity>1</Quantity>
         <USPrice>14.99</USPrice>
+        <inputSymbol>_pdg_lista</inputSymbol>
         <listDelimiter>,</listDelimiter>
         <value>20812,10580</value>
       </Item>

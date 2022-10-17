@@ -1,0 +1,74 @@
+
+FullName                                                    LastWriteTime
+--------                                                    -------------
+D:\_Repos\ptTest\Exercise_1\SAMPLE\auFdfbNSZgDiRPHp\Action1 17/10/2022 13:42:29
+
+
+FullName                                            LastWriteTime
+--------                                            -------------
+D:\_Repos\ptTest\Exercise_1\SAMPLE\eDKSqGdo\Action1 17/10/2022 13:55:54
+D:\_Repos\ptTest\Exercise_1\SAMPLE\eDKSqGdo\Action3 17/10/2022 13:55:54
+
+
+FullName
+--------
+D:\_Repos\ptTest\Exercise_1\SAMPLE\eDKSqGdo\Action1
+D:\_Repos\ptTest\Exercise_1\SAMPLE\eDKSqGdo\Action3
+
+
+FullName
+--------
+D:\_Repos\ptTest\Exercise_1\SAMPLE\GVYvLiCyHoRB\Action0
+
+
+FullName
+--------
+D:\_Repos\ptTest\Exercise_1\SAMPLE\HPndsiKNecwJSV\Action0
+
+
+FullName
+--------
+D:\_Repos\ptTest\Exercise_1\SAMPLE\KGaHsWC\Action1
+
+
+FullName
+--------
+D:\_Repos\ptTest\Exercise_1\SAMPLE\lFqxjIamPZJWMKezBHv\Action1
+D:\_Repos\ptTest\Exercise_1\SAMPLE\lFqxjIamPZJWMKezBHv\Action2
+
+
+FullName
+--------
+D:\_Repos\ptTest\Exercise_1\SAMPLE\muYFBIMr\Action0
+D:\_Repos\ptTest\Exercise_1\SAMPLE\muYFBIMr\Action1
+D:\_Repos\ptTest\Exercise_1\SAMPLE\muYFBIMr\Action2
+
+
+FullName
+--------
+D:\_Repos\ptTest\Exercise_1\SAMPLE\NhmdZvloURg\Action0
+
+
+FullName
+--------
+D:\_Repos\ptTest\Exercise_1\SAMPLE\NxkjuObpFga\Action2
+
+
+FullName
+--------
+D:\_Repos\ptTest\Exercise_1\SAMPLE\SIrKMDB\Action0
+D:\_Repos\ptTest\Exercise_1\SAMPLE\SIrKMDB\Action1
+
+
+FullName
+--------
+D:\_Repos\ptTest\Exercise_1\SAMPLE\uPlNKcdmAzXVoMH\Action1
+
+
+FullName
+--------
+D:\_Repos\ptTest\Exercise_1\SAMPLE\XqtSMbQKAinYZj\Action0
+D:\_Repos\ptTest\Exercise_1\SAMPLE\XqtSMbQKAinYZj\Action1
+D:\_Repos\ptTest\Exercise_1\SAMPLE\XqtSMbQKAinYZj\Action2
+D:\_Repos\ptTest\Exercise_1\SAMPLE\XqtSMbQKAinYZj\Action3
+

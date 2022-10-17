@@ -1,6 +1,6 @@
 # Description  
 In the folder XMLS you will find some xml files.  
-You'll need export to a csv file a list of the xml's fullpath that contains the tag `<_pdg_list>`. Get the value of the `<value>` tag and append it on the same line.
+You'll need export to a csv file a list of the xml's fullpath that contains the tag `inputSymbol` with value `<_pdg_list>`. Get the value of the `<value>` tag and append it on the same line.
 You may use any scripting language or python
 
 ## More explanation
